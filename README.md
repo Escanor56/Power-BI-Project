@@ -37,8 +37,8 @@ To view the full analysis:
 2. Review the visualizations and insights.
 
 ## Screenshots
-![Dashboard Overview](path/to/screenshot.png)
-![State-wise Sales](path/to/screenshot2.png)
+![Dashboard Overview](https://github.com/Escanor56/Power-BI-Project/blob/main/Docs/Dashboard_1.jpg)
+![State-wise Sales]([path/to/screenshot2.png](https://github.com/Escanor56/Power-BI-Project/blob/main/Docs/KPIs_1.jpg))
 
 ## Contact
 For more information, feel free to contact me at [kevinmshelly@gmail.com](mailto:kevinmshelly@gmail.com).
